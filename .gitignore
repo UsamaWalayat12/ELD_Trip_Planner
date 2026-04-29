@@ -1,0 +1,19 @@
+# Environment variables
+.env
+backend/.env
+
+# Node modules
+frontend/node_modules/
+frontend/dist/
+
+# Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+db.sqlite3
+
+# OS generated files
+.DS_Store
+Thumbs.db
